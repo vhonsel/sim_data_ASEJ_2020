@@ -1,0 +1,43 @@
+Number of created bugs: 1140
+	Normal:  0
+	Critical:  36
+	Major: 749
+	Minor:  355
+
+Number of fixed bugs: 829
+	Deletion fixes of all types: 82
+	Normal:  0
+	Critical:  21
+	Major: 504
+	Minor:  304
+
+Number of open bugs:    311
+
+Number of all bugs fixed by developer type:
+	KeyDeveloper: 153
+	MinorDeveloper: 60
+	MajorDeveloper: 534
+
+Number of normal bugs fixed by developer type:
+
+Number of critical bugs fixed by developer type:
+	KeyDeveloper: 5
+	MinorDeveloper: 2
+	MajorDeveloper: 12
+
+Number of major bugs fixed by developer type:
+	KeyDeveloper: 85
+	MinorDeveloper: 34
+	MajorDeveloper: 322
+
+Number of minor bugs fixed by developer type:
+	KeyDeveloper: 63
+	MinorDeveloper: 24
+	MajorDeveloper: 200
+
+Number of commits:
+	Core:	0
+	Peripheral:	0
+	Key:	276
+	Major:	689
+	Minor:	123

@@ -1,0 +1,17 @@
+Source,Target,Weight,Type
+de.ugoe.cs.tcs.se.graph.SEFile@747129d1,de.ugoe.cs.tcs.se.graph.SEFile@458ec435,2.0,Undirected
+de.ugoe.cs.tcs.se.graph.SEFile@458ec435,de.ugoe.cs.tcs.se.graph.SEFile@9c4982,1.0,Undirected
+de.ugoe.cs.tcs.se.graph.SEFile@458ec435,de.ugoe.cs.tcs.se.graph.SEFile@12faf094,1.0,Undirected
+de.ugoe.cs.tcs.se.graph.SEFile@458ec435,de.ugoe.cs.tcs.se.graph.SEFile@579a451,1.0,Undirected
+de.ugoe.cs.tcs.se.graph.SEFile@458ec435,de.ugoe.cs.tcs.se.graph.SEFile@7e3fa932,1.0,Undirected
+de.ugoe.cs.tcs.se.graph.SEFile@458ec435,de.ugoe.cs.tcs.se.graph.SEFile@8d2204a,1.0,Undirected
+de.ugoe.cs.tcs.se.graph.SEFile@9c4982,de.ugoe.cs.tcs.se.graph.SEFile@12faf094,1.0,Undirected
+de.ugoe.cs.tcs.se.graph.SEFile@9c4982,de.ugoe.cs.tcs.se.graph.SEFile@579a451,1.0,Undirected
+de.ugoe.cs.tcs.se.graph.SEFile@9c4982,de.ugoe.cs.tcs.se.graph.SEFile@7e3fa932,1.0,Undirected
+de.ugoe.cs.tcs.se.graph.SEFile@9c4982,de.ugoe.cs.tcs.se.graph.SEFile@8d2204a,2.0,Undirected
+de.ugoe.cs.tcs.se.graph.SEFile@12faf094,de.ugoe.cs.tcs.se.graph.SEFile@579a451,1.0,Undirected
+de.ugoe.cs.tcs.se.graph.SEFile@12faf094,de.ugoe.cs.tcs.se.graph.SEFile@7e3fa932,1.0,Undirected
+de.ugoe.cs.tcs.se.graph.SEFile@12faf094,de.ugoe.cs.tcs.se.graph.SEFile@8d2204a,1.0,Undirected
+de.ugoe.cs.tcs.se.graph.SEFile@579a451,de.ugoe.cs.tcs.se.graph.SEFile@7e3fa932,1.0,Undirected
+de.ugoe.cs.tcs.se.graph.SEFile@579a451,de.ugoe.cs.tcs.se.graph.SEFile@8d2204a,1.0,Undirected
+de.ugoe.cs.tcs.se.graph.SEFile@7e3fa932,de.ugoe.cs.tcs.se.graph.SEFile@8d2204a,1.0,Undirected

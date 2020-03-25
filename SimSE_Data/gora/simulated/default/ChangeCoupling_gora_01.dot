@@ -1,0 +1,18 @@
+graph {
+  de.ugoe.cs.tcs.se.graph.SEFile@747129d1 -- de.ugoe.cs.tcs.se.graph.SEFile@458ec435 [ weight="2.0" ];
+  de.ugoe.cs.tcs.se.graph.SEFile@458ec435 -- de.ugoe.cs.tcs.se.graph.SEFile@9c4982 [ weight="1.0" ];
+  de.ugoe.cs.tcs.se.graph.SEFile@458ec435 -- de.ugoe.cs.tcs.se.graph.SEFile@12faf094 [ weight="1.0" ];
+  de.ugoe.cs.tcs.se.graph.SEFile@458ec435 -- de.ugoe.cs.tcs.se.graph.SEFile@579a451 [ weight="1.0" ];
+  de.ugoe.cs.tcs.se.graph.SEFile@458ec435 -- de.ugoe.cs.tcs.se.graph.SEFile@7e3fa932 [ weight="1.0" ];
+  de.ugoe.cs.tcs.se.graph.SEFile@458ec435 -- de.ugoe.cs.tcs.se.graph.SEFile@8d2204a [ weight="1.0" ];
+  de.ugoe.cs.tcs.se.graph.SEFile@9c4982 -- de.ugoe.cs.tcs.se.graph.SEFile@12faf094 [ weight="1.0" ];
+  de.ugoe.cs.tcs.se.graph.SEFile@9c4982 -- de.ugoe.cs.tcs.se.graph.SEFile@579a451 [ weight="1.0" ];
+  de.ugoe.cs.tcs.se.graph.SEFile@9c4982 -- de.ugoe.cs.tcs.se.graph.SEFile@7e3fa932 [ weight="1.0" ];
+  de.ugoe.cs.tcs.se.graph.SEFile@9c4982 -- de.ugoe.cs.tcs.se.graph.SEFile@8d2204a [ weight="2.0" ];
+  de.ugoe.cs.tcs.se.graph.SEFile@12faf094 -- de.ugoe.cs.tcs.se.graph.SEFile@579a451 [ weight="1.0" ];
+  de.ugoe.cs.tcs.se.graph.SEFile@12faf094 -- de.ugoe.cs.tcs.se.graph.SEFile@7e3fa932 [ weight="1.0" ];
+  de.ugoe.cs.tcs.se.graph.SEFile@12faf094 -- de.ugoe.cs.tcs.se.graph.SEFile@8d2204a [ weight="1.0" ];
+  de.ugoe.cs.tcs.se.graph.SEFile@579a451 -- de.ugoe.cs.tcs.se.graph.SEFile@7e3fa932 [ weight="1.0" ];
+  de.ugoe.cs.tcs.se.graph.SEFile@579a451 -- de.ugoe.cs.tcs.se.graph.SEFile@8d2204a [ weight="1.0" ];
+  de.ugoe.cs.tcs.se.graph.SEFile@7e3fa932 -- de.ugoe.cs.tcs.se.graph.SEFile@8d2204a [ weight="1.0" ];
+}

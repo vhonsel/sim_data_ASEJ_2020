@@ -1,0 +1,380 @@
+Extract Method Data
+--------------------------------------------------
+Analyzed items: 308
+Delta Class:
+	LOC -> -13.925324675324676
+	LLOC -> -14.36038961038961
+	TLLOC -> -14.36038961038961
+	TCLOC -> 0.8798701298701299
+	TNOS -> -13.103896103896103
+	NOS -> -13.103896103896103
+	NOI -> 0.5811688311688312
+	RFC -> 0.7467532467532467
+	CBO -> -0.7954545454545454
+	CBOI -> 0.05519480519480519
+	CC -> -0.036103738961038925
+	CI -> -10.483766233766234
+	WMC -> -0.4155844155844156
+	McCC -> 0.0
+
+Delta Base Method:
+	LOC -> -3.2012987012987013
+	LLOC -> -2.935064935064935
+	TLLOC -> -2.935064935064935
+	TCLOC -> 0.032467532467532464
+	TNOS -> -1.7792207792207793
+	NOS -> -1.7792207792207793
+	NOI -> -0.2532467532467532
+	RFC -> 0.0
+	CBO -> 0.0
+	CBOI -> 0.0
+	CC -> -0.09715593181818184
+	CI -> -0.6461038961038961
+	WMC -> 0.0
+	McCC -> -0.4577922077922078
+
+Delta New Method:
+	LOC -> 7.262987012987013
+	LLOC -> 7.035714285714286
+	TLLOC -> 7.035714285714286
+	TCLOC -> 5.8603896103896105
+	TNOS -> 2.8798701298701297
+	NOS -> 2.8798701298701297
+	NOI -> 1.7467532467532467
+	RFC -> 0.0
+	CBO -> 0.0
+	CBOI -> 0.0
+	CC -> 0.0445201525974026
+	CI -> 0.07792207792207792
+	WMC -> 0.0
+	McCC -> 1.3831168831168832
+
+Start Class:
+	LOC -> 952.75
+	LLOC -> 654.2012987012987
+	TLLOC -> 654.2402597402597
+	TCLOC -> 279.0422077922078
+	TNOS -> 344.1136363636364
+	NOS -> 344.11038961038963
+	NOI -> 52.548701298701296
+	RFC -> 81.39285714285714
+	CBO -> 19.59090909090909
+	CBOI -> 2.1915584415584415
+	CC -> 0.4596437402597403
+	CI -> 57.35064935064935
+	WMC -> 83.51298701298701
+	McCC -> 0.0
+
+Start Base Method:
+	LOC -> 31.308441558441558
+	LLOC -> 29.321428571428573
+	TLLOC -> 29.321428571428573
+	TCLOC -> 9.25974025974026
+	TNOS -> 15.9512987012987
+	NOS -> 15.9512987012987
+	NOI -> 10.087662337662337
+	RFC -> 0.0
+	CBO -> 0.0
+	CBOI -> 0.0
+	CC -> 0.495203461038961
+	CI -> 2.081168831168831
+	WMC -> 0.0
+	McCC -> 3.8636363636363638
+
+Inline Method Data
+--------------------------------------------------
+Analyzed items: 3
+Delta Class:
+	LOC -> 0.3333333333333333
+	LLOC -> 1.0
+	TLLOC -> 1.0
+	TCLOC -> 0.0
+	TNOS -> 0.6666666666666666
+	NOS -> 0.6666666666666666
+	NOI -> 0.0
+	RFC -> 0.0
+	CBO -> 0.0
+	CBOI -> 0.0
+	CC -> -0.00222799999999998
+	CI -> -0.6666666666666666
+	WMC -> 0.3333333333333333
+	McCC -> 0.0
+
+Delta Caller Method:
+	LOC -> 1.6666666666666667
+	LLOC -> 2.0
+	TLLOC -> 2.0
+	TCLOC -> 0.0
+	TNOS -> 1.0
+	NOS -> 1.0
+	NOI -> 0.0
+	RFC -> 0.0
+	CBO -> 0.0
+	CBOI -> 0.0
+	CC -> -0.04135066666666665
+	CI -> -0.3333333333333333
+	WMC -> 0.0
+	McCC -> 0.6666666666666666
+
+Delta Inlined Method:
+	LOC -> -3.0
+	LLOC -> -3.0
+	TLLOC -> -3.0
+	TCLOC -> 0.0
+	TNOS -> -1.0
+	NOS -> -1.0
+	NOI -> 0.0
+	RFC -> 0.0
+	CBO -> 0.0
+	CBOI -> 0.0
+	CC -> 0.0
+	CI -> 0.0
+	WMC -> 0.0
+	McCC -> -1.0
+
+Start Class:
+	LOC -> 1020.0
+	LLOC -> 697.0
+	TLLOC -> 697.0
+	TCLOC -> 269.3333333333333
+	TNOS -> 330.3333333333333
+	NOS -> 330.3333333333333
+	NOI -> 70.66666666666667
+	RFC -> 108.33333333333333
+	CBO -> 21.333333333333332
+	CBOI -> 3.0
+	CC -> 0.3775116666666667
+	CI -> 33.0
+	WMC -> 92.66666666666667
+	McCC -> 0.0
+
+Start Caller Method:
+	LOC -> 47.666666666666664
+	LLOC -> 41.333333333333336
+	TLLOC -> 41.333333333333336
+	TCLOC -> 8.0
+	TNOS -> 20.0
+	NOS -> 20.0
+	NOI -> 14.0
+	RFC -> 0.0
+	CBO -> 0.0
+	CBOI -> 0.0
+	CC -> 0.210145
+	CI -> 1.3333333333333333
+	WMC -> 0.0
+	McCC -> 8.333333333333334
+
+Start Inlined Method:
+	LOC -> 3.0
+	LLOC -> 3.0
+	TLLOC -> 3.0
+	TCLOC -> 0.0
+	TNOS -> 1.0
+	NOS -> 1.0
+	NOI -> 0.0
+	RFC -> 0.0
+	CBO -> 0.0
+	CBOI -> 0.0
+	CC -> 0.0
+	CI -> 0.0
+	WMC -> 0.0
+	McCC -> 1.0
+
+Move Method Data
+--------------------------------------------------
+Analyzed items: 0
+
+Delta Base Class:
+	LOC -> NaN
+	LLOC -> NaN
+	TLLOC -> NaN
+	TCLOC -> NaN
+	TNOS -> NaN
+	NOS -> NaN
+	NOI -> NaN
+	RFC -> NaN
+	CBO -> NaN
+	CBOI -> NaN
+	CC -> NaN
+	CI -> NaN
+	WMC -> NaN
+	McCC -> NaN
+
+Delta Target Class:
+	LOC -> NaN
+	LLOC -> NaN
+	TLLOC -> NaN
+	TCLOC -> NaN
+	TNOS -> NaN
+	NOS -> NaN
+	NOI -> NaN
+	RFC -> NaN
+	CBO -> NaN
+	CBOI -> NaN
+	CC -> NaN
+	CI -> NaN
+	WMC -> NaN
+	McCC -> NaN
+
+Delta Method:
+	LOC -> NaN
+	LLOC -> NaN
+	TLLOC -> NaN
+	TCLOC -> NaN
+	TNOS -> NaN
+	NOS -> NaN
+	NOI -> NaN
+	RFC -> NaN
+	CBO -> NaN
+	CBOI -> NaN
+	CC -> NaN
+	CI -> NaN
+	WMC -> NaN
+	McCC -> NaN
+
+Start Base Class:
+	LOC -> NaN
+	LLOC -> NaN
+	TLLOC -> NaN
+	TCLOC -> NaN
+	TNOS -> NaN
+	NOS -> NaN
+	NOI -> NaN
+	RFC -> NaN
+	CBO -> NaN
+	CBOI -> NaN
+	CC -> NaN
+	CI -> NaN
+	WMC -> NaN
+	McCC -> NaN
+
+Start Target Class:
+	LOC -> NaN
+	LLOC -> NaN
+	TLLOC -> NaN
+	TCLOC -> NaN
+	TNOS -> NaN
+	NOS -> NaN
+	NOI -> NaN
+	RFC -> NaN
+	CBO -> NaN
+	CBOI -> NaN
+	CC -> NaN
+	CI -> NaN
+	WMC -> NaN
+	McCC -> NaN
+
+Start Method:
+	LOC -> NaN
+	LLOC -> NaN
+	TLLOC -> NaN
+	TCLOC -> NaN
+	TNOS -> NaN
+	NOS -> NaN
+	NOI -> NaN
+	RFC -> NaN
+	CBO -> NaN
+	CBOI -> NaN
+	CC -> NaN
+	CI -> NaN
+	WMC -> NaN
+	McCC -> NaN
+
+Move Method to new Class Data
+--------------------------------------------------
+Analyzed items: 16
+Delta Base Class:
+	LOC -> -63.9375
+	LLOC -> -45.6875
+	TLLOC -> -45.6875
+	TCLOC -> -8.5
+	TNOS -> -26.4375
+	NOS -> -26.4375
+	NOI -> 0.0625
+	RFC -> -1.3125
+	CBO -> -0.6875
+	CBOI -> -0.25
+	CC -> 0.02710062500000001
+	CI -> -1.875
+	WMC -> -8.1875
+	McCC -> 0.0
+
+Delta Target Class:
+	LOC -> 518.125
+	LLOC -> 308.625
+	TLLOC -> 308.625
+	TCLOC -> 148.4375
+	TNOS -> 127.3125
+	NOS -> 127.3125
+	NOI -> 8.9375
+	RFC -> 31.375
+	CBO -> 6.625
+	CBOI -> 9.875
+	CC -> 0.2051310625
+	CI -> 8.375
+	WMC -> 56.0
+	McCC -> 0.0
+
+Delta Method:
+	LOC -> -0.6875
+	LLOC -> -0.5625
+	TLLOC -> -0.5625
+	TCLOC -> 0.0625
+	TNOS -> -0.25
+	NOS -> -0.25
+	NOI -> -0.3125
+	RFC -> 0.0
+	CBO -> 0.0
+	CBOI -> 0.0
+	CC -> 0.0
+	CI -> 0.0
+	WMC -> 0.0
+	McCC -> -0.1875
+
+Start Base Class:
+	LOC -> 614.25
+	LLOC -> 350.8125
+	TLLOC -> 350.8125
+	TCLOC -> 213.6875
+	TNOS -> 150.875
+	NOS -> 150.875
+	NOI -> 9.8125
+	RFC -> 38.125
+	CBO -> 6.6875
+	CBOI -> 30.6875
+	CC -> 0.22013468749999998
+	CI -> 7.25
+	WMC -> 73.25
+	McCC -> 0.0
+
+Start Target Class:
+	LOC -> 0.0
+	LLOC -> 0.0
+	TLLOC -> 0.0
+	TCLOC -> 0.0
+	TNOS -> 0.0
+	NOS -> 0.0
+	NOI -> 0.0
+	RFC -> 0.0
+	CBO -> 0.0
+	CBOI -> 0.0
+	CC -> 0.0
+	CI -> 0.0
+	WMC -> 0.0
+	McCC -> 0.0
+
+Start Method:
+	LOC -> 33.5625
+	LLOC -> 27.375
+	TLLOC -> 27.375
+	TCLOC -> 5.625
+	TNOS -> 16.625
+	NOS -> 16.625
+	NOI -> 2.625
+	RFC -> 0.0
+	CBO -> 0.0
+	CBOI -> 0.0
+	CC -> 0.0608485625
+	CI -> 1.75
+	WMC -> 0.0
+	McCC -> 5.3125

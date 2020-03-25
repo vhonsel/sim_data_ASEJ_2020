@@ -1,0 +1,10 @@
+Id,Category,Value
+de.ugoe.cs.tcs.se.graph.SEFile@4ec0bdc7,org.apache.giraph.block_app,1.0
+de.ugoe.cs.tcs.se.graph.SEFile@4438d6b7,org.apache.giraph.block_app,1.0
+de.ugoe.cs.tcs.se.graph.SEFile@327e61e0,org.apache.giraph.comm,1.0
+de.ugoe.cs.tcs.se.graph.SEFile@54a6467b,org.apache.giraph.comm,1.0
+de.ugoe.cs.tcs.se.graph.SEFile@3c829aad,org.apache.giraph.comm,1.0
+de.ugoe.cs.tcs.se.graph.SEFile@fc61524,com.yahoo.hadoop_bsp,1.0
+de.ugoe.cs.tcs.se.graph.SEFile@609dad5a,org.apache.giraph.comm,1.0
+de.ugoe.cs.tcs.se.graph.SEFile@31ea3a04,org.apache.giraph.comm,1.0
+de.ugoe.cs.tcs.se.graph.SEFile@6831beea,org.apache.giraph.worker,1.0

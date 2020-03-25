@@ -1,0 +1,14 @@
+Id,Category,Value
+de.ugoe.cs.tcs.se.graph.SEFile@6927888a,org.apache.gora.cassandra,0.81
+de.ugoe.cs.tcs.se.graph.SEFile@27c924fe,org.apache.gora.accumulo,0.825
+de.ugoe.cs.tcs.se.graph.SEFile@6777205a,org.apache.gora.cassandra,1.0
+de.ugoe.cs.tcs.se.graph.SEFile@555a8049,org.apache.gora.cassandra,1.0
+de.ugoe.cs.tcs.se.graph.SEFile@c074bd6,org.apache.gora.cassandra,1.0
+de.ugoe.cs.tcs.se.graph.SEFile@14644b6f,org.apache.gora.cassandra,1.0
+de.ugoe.cs.tcs.se.graph.SEFile@5ba5f093,org.apache.gora.cassandra,1.0
+de.ugoe.cs.tcs.se.graph.SEFile@f7bff27,org.apache.gora.avro,1.0
+de.ugoe.cs.tcs.se.graph.SEFile@3c7993de,org.apache.gora.avro,0.81
+de.ugoe.cs.tcs.se.graph.SEFile@6b48ee35,org.apache.gora.avro,1.0
+de.ugoe.cs.tcs.se.graph.SEFile@7eed5232,org.apache.gora.util,1.0
+de.ugoe.cs.tcs.se.graph.SEFile@14d790b9,org.apache.gora.persistency,1.0
+de.ugoe.cs.tcs.se.graph.SEFile@581a422,org.apache.gora.hbase,1.0
