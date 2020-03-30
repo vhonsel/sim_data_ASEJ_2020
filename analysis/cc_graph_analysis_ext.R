@@ -1,3 +1,14 @@
+################################################################################
+# DEFINE THE LOCATION OF THE REPLICATION KIT AND YOUR SAVING DIRECTORY HERE!!! #
+# These are the only lines you have to change.                                 #
+################################################################################
+
+
+path <- "C:/Users/vhonsel/Documents/git/paper/ASE/ReplicationKit/SimSE_Data/"
+
+savedir <- file.path("C:/Users/vhonsel/Documents/git/paper/ASE/ReplicationKit/plots")
+
+
 # Check and install dependencies
 if(!require(sna)) install.packages("sna")
 if(!require(igraph)) install.packages("igraph")
@@ -20,16 +31,6 @@ projects <- c("giraph","gora","directory-fotress-core","jspwiki","zookeeper","co
 results <- data.frame(project=character(), mode=character(), year=character(), nodes=numeric(), edges=numeric(), modularity=numeric(), densitiy = numeric(), stringsAsFactors = FALSE)
 
 results_commits <- data.frame(project=character(), mode=character(), year=character(), NOC=numeric(),stringsAsFactors = FALSE)
-  
-################################################################################
-# DEFINE THE LOCATION OF THE REPLICATION KIT AND YOUR SAVING DIRECTORY HERE!!! #
-# These are the only lines you have to change.                                 #
-################################################################################
-
-
-path <- "C:/Users/vhonsel/Documents/git/paper/ASE/ReplicationKit/SimSE_Data/"
-
-savedir <- file.path("C:/Users/vhonsel/Documents/git/paper/ASE/ReplicationKit/plots")
 
 
 ########## using adjacency matrices ###########
@@ -728,7 +729,7 @@ commits <- fromJSON(paste(projects[5],"_data.json",sep=""), flatten=TRUE)
 # onion model threshold
 quantile(commits$identities$numberOfCommits, 0.8) 
 
-ggplot(commits$identities, aes(x = reorder(name, -numberOfCommits), y = (numberOfCommits),group=type, fill=type))+
+print(ggplot(commits$identities, aes(x = reorder(name, -numberOfCommits), y = (numberOfCommits),group=type, fill=type))+
   geom_bar(stat = "identity")+
   labs(x = "Developer", y="Number of Commits",fill="role")+
   theme(axis.text.x=element_blank(),
@@ -738,7 +739,7 @@ ggplot(commits$identities, aes(x = reorder(name, -numberOfCommits), y = (numberO
         legend.text=element_text(size=13),
         legend.title=element_text(size=13))+
   geom_vline(xintercept=20.5, colour="blue",size=1.5)+
-  geom_text(aes(35,500,label = "onion model threshold", vjust = -1), size=4.5, colour="blue")
+  geom_text(aes(35,500,label = "onion model threshold", vjust = -1), size=4.5, colour="blue"))
 
 
 
